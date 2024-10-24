@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jewellery Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Elegant Jewellerys</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#search">SEARCH</a></li>
+                <li><a href="#shop">SHOP</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2> Jewellery</h2>
+        <p>WELCOME TO WORLD OF JEWELL.</p>
+    </section>
+
+    <section id="search">
+        <select>
+            <form class="form-wrapper-2 cf"></form>
+        <option>All </option>
+        <option>Necklace </option>
+        <option>Ring </option>
+        <option>Bracelet</option>
+        <option> Diamond Set</option>
+        </select>
+        <input placeholder="Search Jewell">
+
+        </div>
+
+    <section id="shop">
+        <h2>Shop Our Collection</h2>
+        <div class="product">
+            <img src="ring.jpg" alt="Gold Ring">
+            <h3>Gold Ring</h3>
+            <p>$150</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="necklace.jpg" alt="Diamond Necklace">
+            <h3>Diamond Necklace</h3>
+            <p>$300</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="bracelet.jpg" alt="Silver Bracelet">
+            <h3>Silver Bracelet</h3>
+            <p>$120</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="crown.jpg" alt="Silver Bracelet">
+            <h3>Crown</h3>
+            <p>$1000</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="Dimaond ring.jpg" alt="Silver Bracelet">
+            <h3>Dimaond ring</h3>
+            <p>$1500</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="Dimaond Set.jpg" alt="Silver Bracelet">
+            <h3>Dimaond set </h3>
+            <p>$2000</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="bracelet1.jpg" alt="Silver Bracelet">
+            <h3>Dimaond bracelet </h3>
+            <p>$2500</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="alumini.jpg" alt="Silver Bracelet">
+            <h3>Aluminium set </h3>
+            <p>$2080</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="bracelet2.jpg" alt="Silver Bracelet">
+            <h3>unique bracelet </h3>
+            <p>$280</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="ankle.jpg" alt="Silver Bracelet">
+            <h3>Ankle Set  </h3>
+            <p>$299</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="bangle.jpg" alt="Silver Bracelet">
+            <h3>Bangles </h3>
+            <p>$2999</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="oxidise.jpg" alt="Silver Bracelet">
+            <h3>Oxidised Ankle  </h3>
+            <p>$599</p>
+            <button>Add to Cart</button>
+        </div>
+    </section>
+
+    
+<div>
+        <section id="contact">
+            <h3> MORE INFORMATION CONTACT US</h3>
+            <b1>EMAIL : jewellery88@gmail.com</b1><br>
+            <b2>PHONE NUMBER : 9920345684</b2><br>
+            <b3>Address : Shivaji Nagar 5th cross,Banglore</b3><br>
+        </div>
+
+    <footer>
+        <p>&copy; 2024 Elegant Jewellery. All rights reserved.</p>
+    </footer>
+</body>
+</html>
