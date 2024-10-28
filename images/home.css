@@ -1,0 +1,10 @@
+.product, .cart {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}

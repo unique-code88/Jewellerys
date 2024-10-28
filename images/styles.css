@@ -3,40 +3,23 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("bg6.jpg");
-    background-size: cover;
+    background-image: url("bg1.jpg");
+    background-size: contain;
 }
 
 header {
-    background-color: black;
-    color: purple;
+    background-color: #020f0f;
+    color: white;
     padding: 10px 20px;
     border: 2px sloid white;
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
+    font-family: Georgia, Times, 'Times New Roman', serif
 }
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px; 
-}
-
-.logo {
-    margin-right: auto;
-}
-
-.logo img {
-    height: 190px; 
-    width: 190%; 
-}
-
 
 header h1 {
+    margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:#86c0e7
+    color: white;
 }
-
 
 nav ul {
     list-style-type: none;
@@ -46,20 +29,18 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 20px;
-
-
 }
 
 nav a {
-    color: palevioletred;
+    color: white;
     text-decoration: none;
 }
 
 section {
     padding: 20px;
     margin: 10px;
-    color: rgb(243, 243, 247);
-    font-size: 200%;
+    color: white;
+    font-size: larger;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -80,22 +61,14 @@ section {
     border-radius: 5px;
 }
 
-
 button {
-    padding: 5px 10px;
+    background-color:rgb(54, 156, 63);
+    color: white;
+    border: none;
+    padding: 10px;
     cursor: pointer;
-    font-family: Georgia;
-    font-weight: bolder;
-    color: rgb(20, 19, 20);
+    border-radius: 5px;
 }
-
-.cart {
-    margin-top: 40px;
-    border-top: 2px solid #000;
-    padding-top: 20px;
-    color: rgb(225, 228, 231);
-}
-
 
 footer {
     text-align: center;

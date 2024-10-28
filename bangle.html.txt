@@ -1,0 +1,72 @@
+<title>Jewellery Shop</title>
+    <link rel="stylesheet" href="ringstyle.css">
+    <section id="search">
+        <div class="cart">
+            <button><h2>Added TO Cart</h2>
+            <ul id="cartItems"></ul><br>
+            <p id="totalPrice">Total: $0</p></button>
+        </div>
+    <div class="product">
+        <img src="bang1.jpg" alt="Gold Ring">
+        <h3>Bridal Bangles</h3>
+        <p>Price:$2999</p>
+        <button  class="addToCart" data-name="Bridal Bangles" data-price="2999">Add to Cart</button>
+    </div>
+        <div class="product">
+            <img src="bang2.jpg" alt="Gold Ring">
+            <h3>Diamond Bangles</h3>
+            <p>Price:$10000</p>
+            <button  class="addToCart" data-name="Diamond Bangles" data-price="10000">Add to Cart</button>
+        </div>
+            <div class="product">
+                <img src="bang3.jpg" alt="Gold Ring">
+                <h3>Traditional Goldplated</h3>
+                <p>Price:$3999</p>
+                <button  class="addToCart" data-name="Traditional Goldplated" data-price="3999">Add to Cart</button>
+            </div>
+                <div class="product">
+                    <img src="bang4.jpg" alt="Gold Ring">
+                    <h3>Purple Diamond</h3>
+                    <p>Price:$5999</p>
+                    <button  class="addToCart" data-name="Purple Diamond" data-price="5999">Add to Cart</button>
+                </div>
+                    <div class="product">
+                        <img src="bang5.jpg" alt="Gold Ring">
+                        <h3>Multicolor Bangles</h3>
+                        <p>Price:$599</p>
+                        <button  class="addToCart" data-name="Multicolor Bangles" data-price="599">Add to Cart</button>
+                    </div>
+                        <div class="product">
+                            <img src="bang6.jpg" alt="Gold Ring">
+                            <h3>Gold Bangles</h3>
+                            <p>Price:$2999</p>
+                            <button  class="addToCart" data-name="" data-price="2999">Add to Cart</button>
+                        </div>
+                            <div class="product">
+                                <img src="bang7.jpg" alt="Gold Ring">
+                                <h3>Glossy Pink</h3>
+                                <p>Price:$6990</p>
+                                <button  class="addToCart" data-name="Glossy Pink" data-price="6990">Add to Cart</button>
+                            </div>
+                                <div class="product">
+                                    <img src="bang8.jpg" alt="Gold Ring">
+                                    <h3>Rajasthani Bangles</h3>
+                                    <p>Price:1999</p>
+                                    <button class="addToCart" data-name="Rajasthani Bangles" data-price="1999">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="bang9.jpg" alt="Gold Ring">
+                                    <h3>Hydrabad Bangles</h3>
+                                    <p>Price:$399</p>
+                                    <button  class="addToCart" data-name="Hydrabad Bangles" data-price="399">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="bang10.jpg" alt="Gold Ring">
+                                    <h3>Elegant Pink</h3>
+                                    <p>Price:$199</p>
+                                    <button  class="addToCart" data-name="Elegant Pink" data-price="199">Add to Cart</button>
+                                </div>
+</section>
+
+<script src="indexscript.js"></script>
+                                                                                            

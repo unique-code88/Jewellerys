@@ -1,0 +1,73 @@
+<title>Jewellery Shop</title>
+    <link rel="stylesheet" href="ringstyle.css">
+    <section id="search">
+        <div class="cart">
+            <button><h2>Added TO Cart</h2></button>
+            <ul id="cartItems"></ul>
+            <p id="totalPrice">Total: $0</p>
+        </div>
+    <div class="product">
+        <img src="a1.jpg" alt="Gold Ring">
+        <h3>Rajasthani Anklet</h3>
+        <p>Price:$1560</p>
+        <button  class="addToCart" data-name="Rajasthani Anklet" data-price="1560">Add to Cart</button>
+    </div>
+        <div class="product">
+            <img src="a2.jpg" alt="Gold Ring">
+            <h3>Gujarathi Style</h3>
+            <p>Price:$1250</p>
+            <button  class="addToCart" data-name="Gujarathi Style" data-price="1250">Add to Cart</button>
+        </div>
+            <div class="product">
+                <img src="a3.jpg" alt="Gold Ring">
+                <h3>Grand Bridal</h3>
+                <p>Price:$2500</p>
+                <button  class="addToCart" data-name="Grand Bridal" data-price="2500">Add to Cart</button>
+            </div>
+                <div class="product">
+                    <img src="a4.jpg" alt="Gold Ring">
+                    <h3> Heavy Floraldesign</h3>
+                    <p>Price:$2480</p>
+                    <button  class="addToCart" data-name="Heavy Floraldesign" data-price="2480">Add to Cart</button>
+                </div>
+                    <div class="product">
+                        <img src="a5.jpg" alt="Gold Ring">
+                        <h3> Star Anklet</h3>
+                        <p>Price:$1520</p>
+                        <button  class="addToCart" data-name="Star Anklet" data-price="1520">Add to Cart</button>
+                    </div>
+                        <div class="product">
+                            <img src="a6.jpg" alt="Gold Ring">
+                            <h3>Hathi Design</h3>
+                            <p>Price:$3499</p>
+                            <button  class="addToCart" data-name="Hathi Design" data-price="3499">Add to Cart</button>
+                        </div>
+                            <div class="product">
+                                <img src="a7.jpg" alt="Gold Ring">
+                                <h3>Love Layered</h3>
+                                <p>Price:$4999</p>
+                                <button  class="addToCart" data-name="Love Layered" data-price="4999">Add to Cart</button>
+                            </div>
+                                <div class="product">
+                                    <img src="a8.jpg" alt="Gold Ring">
+                                    <h3>New Multicolor</h3>
+                                    <p>Price:$250</p>
+                                    <button  class="addToCart" data-name="New Multicolor" data-price="250">Add to Cart</button>
+                                    
+                                </div>
+                                <div class="product">
+                                    <img src="a9.jpg" alt="Gold Ring">
+                                    <h3>Elegant flower</h3>
+                                    <p>Price:$699</p>
+                                    <button  class="addToCart" data-name="Elegant flower" data-price="699">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="a10.jpg" alt="Gold Ring">
+                                    <h3>Simple Heart</h3>
+                                    <p>Price:$150</p>
+                                    <button  class="addToCart" data-name="Simple Heart" data-price="150">Add to Cart</button>
+                                </div>
+</section>
+
+<script src="indexscript.js"></script>
+                                                                                            

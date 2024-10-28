@@ -1,0 +1,60 @@
+<title>Jewellery Shop</title>
+    <link rel="stylesheet" href="ringstyle.css">
+    <section id="search">
+        <div class="cart">
+            <button><h2>Added TO Cart</h2>
+            <ul id="cartItems"></ul>
+            <p id="totalPrice">Total: $0</p></button>
+        </div>
+    <div class="product">
+        <img src="r1.jpg" alt="Gold Ring">
+        <h3>Goldplated</h3>
+        <p>Price:$499</p>
+        <button  class="addToCart" data-name="Goldplated" data-price="499">Add to Cart</button>
+    </div>
+        <div class="product">
+            <img src="r2.jpg" alt="Gold Ring">
+            <h3>Diamond</h3>
+            <p>Price:$699</p>
+            <button  class="addToCart" data-name="Diamond" data-price="8999">Add to Cart</button>
+        </div>
+            <div class="product">
+                <img src="r3.jpg" alt="Gold Ring">
+                <h3>Platinum</h3>
+                <p>Price:$499</p>
+                <button  class="addToCart" data-name="Platinum" data-price="499">Add to Cart</button>
+            </div>
+                <div class="product">
+                    <img src="r4.jpg" alt="Gold Ring">
+                    <h3>Couple Rings</h3>
+                    <p>Price:$899</p>
+                    <button  class="addToCart" data-name="Couple Rings" data-price="899">Add to Cart</button>
+                </div>
+                    <div class="product">
+                        <img src="r5.jpg" alt="Gold Ring">
+                        <h3>Silverplated</h3>
+                        <p>Price:$999</p>
+                        <button  class="addToCart" data-name="Silverplated" data-price="999">Add to Cart</button>
+                    </div>
+                        <div class="product">
+                            <img src="r6.jpg" alt="Gold Ring">
+                            <h3>Pink Diamond</h3>
+                            <p>Price:$799</p>
+                            <button  class="addToCart" data-name=">Pink Diamond" data-price="799">Add to Cart</button>
+                        </div>
+                            <div class="product">
+                                <img src="r7.jpg" alt="Gold Ring">
+                                <h3>Bridal Ring</h3>
+                                <p>Price:$399</p>
+                                <button  class="addToCart" data-name="" data-price="399">Add to Cart</button>
+                            </div>
+                                <div class="product">
+                                    <img src="r8.jpg" alt="Gold Ring">
+                                    <h3>Couple Diamond</h3>
+                                    <p>Price:$599</p>
+                                    <button  class="addToCart" data-name="Couple Diamond" data-price="599">Add to Cart</button>
+                                </div>
+</section>
+
+<script src="indexscript.js"></script>
+                                                                                            

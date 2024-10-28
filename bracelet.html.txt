@@ -1,0 +1,73 @@
+<title>Jewellery Shop</title>
+    <link rel="stylesheet" href="ringstyle.css">
+    <section id="search">
+        <div class="cart">
+            <button><h1>Added TO Cart</h1>
+            <ul id="cartItems"></ul>
+            <p id="totalPrice">Total: $0</p></button>
+        </div>
+    <div class="product">
+        <img src="b1.jpg" alt="Gold Ring">
+        <h3>Shells Bracelet</h3>
+        <p>Price:$1599</p>
+        <button  class="addToCart" data-name="Shells Bracelet" data-price="1599">Add to Cart</button>
+    </div>
+        <div class="product">
+            <img src="b2.jpg" alt="Gold Ring">
+            <h3>Diamond Bracelet</h3>
+            <p>Price:$2990</p>
+            <button  class="addToCart" data-name="Diamond Bracelet" data-price="2990">Add to Cart</button>
+        </div>
+            <div class="product">
+                <img src="b3.jpg" alt="Gold Ring">
+                <h3>Stylish Bracelet</h3>
+                <p> Price:$1599</p>
+                <button  class="addToCart" data-name="Stylish Bracelet" data-price="1599">Add to Cart</button>
+            </div>
+                <div class="product">
+                    <img src="b4.jpg" alt="Gold Ring">
+                    <h3>Diamond Stone</h3>
+                    <p>$4999</p>
+                    <button  class="addToCart" data-name="Diamond Stone" data-price="4999">Add to Cart</button>
+                </div>
+                    <div class="product">
+                        <img src="b5.jpg" alt="Gold Ring">
+                        <h3>Kuchhu Bracelet </h3>
+                        <p>$290</p>
+                        <button  class="addToCart" data-name="Kuchhu Bracelet " data-price="290">Add to Cart</button>
+                    </div>
+                        <div class="product">
+                            <img src="b6.jpg" alt="Gold Ring">
+                            <h3>Gold Plated</h3>
+                            <p>$5990</p>
+                            <button class="addToCart" data-name="Gold Plated" data-price="5990">Add to Cart</button>
+                        </div>
+                            <div class="product">
+                                <img src="b7.jpg" alt="Gold Ring">
+                                <h3>Unique Bracelet</h3>
+                                <p>$3990</p>
+                                <button class="addToCart" data-name="Unique Bracelet" data-price="3990">Add to Cart</button>
+                            </div>
+                                <div class="product">
+                                    <img src="b8.jpg" alt="Gold Ring">
+                                    <h3>Pearl</h3>
+                                    <p>$499</p>
+                                    <button class="addToCart" data-name="Pearl" data-price="4990">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="b9.jpg" alt="Gold Ring">
+                                    <h3>Platinum</h3>
+                                    <p>$899</p>
+                                    <button class="addToCart" data-name="Platinum" data-price="899">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="b10.jpg" alt="Gold Ring">
+                                    <h3>Diamond Plated</h3>
+                                    <p>$9999</p>
+                                    <button class="addToCart" data-name="Diamond Plated" data-price="9999">Add to Cart</button>
+                                </div>
+            
+</section>
+
+<script src="indexscript.js"></script>
+                                                                                            

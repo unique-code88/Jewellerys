@@ -1,0 +1,66 @@
+<title>Jewellery Shop</title>
+    <link rel="stylesheet" href="ringstyle.css">
+    <section id="search">
+        <div class="cart">
+            <button><h2>Added TO Cart</h2>
+            <ul id="cartItems"></ul><br>
+            <p id="totalPrice">Total: $0</p></button>
+        </div>
+    <div class="product">
+        <img src="n1.jpg" alt="Gold Ring">
+        <h3>Dimaond Necklace</h3>
+        <p> Price:$8999</p>
+        <button  class="addToCart" data-name="Dimaond Necklace" data-price="8999">Add to Cart</button>
+    </div>
+        <div class="product">
+            <img src="n2.jpg" alt="Gold Ring">
+            <h3>Elegant Necklace</h3>
+            <p>Price:$5990</p>
+            <button  class="addToCart" data-name="Elegant Necklace" data-price="5990">Add to Cart</button>
+        </div>
+            <div class="product">
+                <img src="n3.jpg" alt="Gold Ring">
+                <h3>Oxidised Piece</h3>
+                <p>Price:$1500</p>
+                <button  class="addToCart" data-name="Oxidised Piece" data-price="1500">Add to Cart</button>
+            </div>
+                <div class="product">
+                    <img src="n4.jpg" alt="Gold Ring">
+                    <h3>Elegant Pink</h3>
+                    <p>Price:$1999</p>
+                    <button class="addToCart" data-name="Elegant Pink "ata-price="1999">Add to Cart</button>
+                </div>
+                    <div class="product">
+                        <img src="n5.jpg" alt="Gold Ring">
+                        <h3>Flawless Diamond</h3>
+                        <p>Price:$5699</p>
+                        <button class="addToCart" data-name="Flawless Diamond" data-price="5699">Add to Cart</button>
+                    </div>
+                        <div class="product">
+                            <img src="n6.jpg" alt="Gold Ring">
+                            <h3>Sky Layered</h3>
+                            <p>Price:$999</p>
+                            <button class="addToCart" data-name="Sky Layered" data-price="999">Add to Cart</button>
+                        </div>
+                            <div class="product">
+                                <img src="n7.jpg" alt="Gold Ring">
+                                <h3>Gold Plated</h3>
+                                <p>Price:$7990</p>
+                                <button class="addToCart" data-name="Gold Plated" data-price="7990">Add to Cart</button>
+                            </div>
+                                <div class="product">
+                                    <img src="n8.jpg" alt="Gold Ring">
+                                    <h3>Glossy Silver</h3>
+                                    <p>Price:$9000</p>
+                                    <button class="addToCart" data-name="Glossy Silver" data-price="9000">Add to Cart</button>
+                                </div>
+                                <div class="product">
+                                    <img src="n9.jpg" alt="Gold Ring">
+                                    <h3>Emerald green</h3>
+                                    <p>Price:$1999</p>
+                                    <button class="addToCart" data-name="Emerald green" data-price="1999">Add to Cart</button>
+                                </div>
+</section>
+
+<script src="indexscript.js"></script>
+                                                                                            
